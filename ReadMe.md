@@ -21,7 +21,7 @@ Python-Markdown is a free and open source Python library for converting Markdown
 ### <h3> Heading like
 #### <h4> and same will go on!
 
-<p> Now I am making an paragraph. Hi my name is Akash Sarkar, I am from India. I am 25 years old. </p>
+<p> Now I am making a paragraph. Hi my name is Akash Sarkar, I am from India. I am 25 years old. </p>
 
 ### Italic text:
 <i> This is italic text wit html syntax </i><br>
@@ -101,7 +101,8 @@ if you are writing javascript language than just write there javascript so that 
 
 #### Task Link:
 - [x] Task 1
-- [x] Task 2 
+- [x] Task 2
+- [x] Task 3
 
 <br>
 
